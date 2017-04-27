@@ -1,6 +1,6 @@
 # npmdoc-babylonjs
 
-#### api documentation for  [babylonjs (v2.5.0)](https://github.com/BabylonJS/Babylon.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-babylonjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babylonjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babylonjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babylonjs)
+#### basic api documentation for  [babylonjs (v2.5.0)](https://github.com/BabylonJS/Babylon.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-babylonjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babylonjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babylonjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babylonjs)
 
 #### Babylon.js is a JavaScript 3D engine based on webgl.
 
@@ -74,7 +74,8 @@
     },
     "scripts": {},
     "typings": "babylon.d.ts",
-    "version": "2.5.0"
+    "version": "2.5.0",
+    "bin": {}
 }
 ```
 
